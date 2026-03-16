@@ -2,7 +2,7 @@
 # Second Brain Starter Kit Installer
 # by Mission Relearn (https://missionrelearn.com)
 #
-# Usage: curl -sL https://lab.missionrelearn.com/install.sh | bash
+# Usage: curl -sL https://lab.missionrelearn.com/package/install.sh | bash
 #
 set -e
 

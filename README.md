@@ -7,13 +7,13 @@ Build a persistent AI workspace in Claude Code with memory, skills, and structur
 ## Quick Install
 
 ```bash
-curl -sL https://lab.missionrelearn.com/install.sh | bash
+curl -sL https://lab.missionrelearn.com/package/install.sh | bash
 ```
 
 Or if you prefer to inspect the script first:
 
 ```bash
-curl -sL https://lab.missionrelearn.com/install.sh -o install.sh
+curl -sL https://lab.missionrelearn.com/package/install.sh -o install.sh
 cat install.sh
 bash install.sh
 ```

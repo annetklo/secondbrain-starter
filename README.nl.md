@@ -7,13 +7,13 @@ Bouw een permanente AI-werkruimte in Claude Code met geheugen, vaardigheden en s
 ## Snel Installeren
 
 ```bash
-curl -sL https://lab.missionrelearn.com/install.sh | bash
+curl -sL https://lab.missionrelearn.com/package/install.sh | bash
 ```
 
 Of bekijk het script eerst:
 
 ```bash
-curl -sL https://lab.missionrelearn.com/install.sh -o install.sh
+curl -sL https://lab.missionrelearn.com/package/install.sh -o install.sh
 cat install.sh
 bash install.sh
 ```
